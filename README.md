@@ -30,6 +30,6 @@ A simple and interactive **Fitness Progress Tracker** built with **Streamlit** a
    cd fitness-progress-tracker
 
 2. run
-   pip install -r requirements.txt
-   streamlit run app.py
+  - pip install -r requirements.txt
+  - streamlit run app.py
 
